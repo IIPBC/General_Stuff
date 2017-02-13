@@ -1,2 +1,2 @@
-# General_Stuff
+# General Stuff
 Schedule, general info, etc.
